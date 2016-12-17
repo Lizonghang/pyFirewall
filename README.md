@@ -1,0 +1,2 @@
+# pyFirewall
+Python控制iptables的自动隔离爬虫和端口扫描的防火墙
